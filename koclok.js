@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="recovery-mode_21.html"}
 if(x=="2"){xxx="smartphone_21.html"}
 if(x=="3"){xxx="flashing.html"}
-if(x=="4"){xxx="usb-driver.html"}a_to_ve[i].href="http://linkservicersphones.blogspot.com/2017/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="usb-driver.html"}a_to_ve[i].href="https://linkservicersphones.blogspot.com/2017/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
